@@ -1,0 +1,15 @@
+F:\Codes Ref\Regex\Regular-Expressions-With-Different-Languges-\Regex C#\Regex\obj\Debug\net7.0\Regex.csproj.AssemblyReference.cache
+F:\Codes Ref\Regex\Regular-Expressions-With-Different-Languges-\Regex C#\Regex\obj\Debug\net7.0\Regex.GeneratedMSBuildEditorConfig.editorconfig
+F:\Codes Ref\Regex\Regular-Expressions-With-Different-Languges-\Regex C#\Regex\obj\Debug\net7.0\Regex.AssemblyInfoInputs.cache
+F:\Codes Ref\Regex\Regular-Expressions-With-Different-Languges-\Regex C#\Regex\obj\Debug\net7.0\Regex.AssemblyInfo.cs
+F:\Codes Ref\Regex\Regular-Expressions-With-Different-Languges-\Regex C#\Regex\obj\Debug\net7.0\Regex.csproj.CoreCompileInputs.cache
+F:\Codes Ref\Regex\Regular-Expressions-With-Different-Languges-\Regex C#\Regex\bin\Debug\net7.0\Regex.exe
+F:\Codes Ref\Regex\Regular-Expressions-With-Different-Languges-\Regex C#\Regex\bin\Debug\net7.0\Regex.deps.json
+F:\Codes Ref\Regex\Regular-Expressions-With-Different-Languges-\Regex C#\Regex\bin\Debug\net7.0\Regex.runtimeconfig.json
+F:\Codes Ref\Regex\Regular-Expressions-With-Different-Languges-\Regex C#\Regex\bin\Debug\net7.0\Regex.dll
+F:\Codes Ref\Regex\Regular-Expressions-With-Different-Languges-\Regex C#\Regex\bin\Debug\net7.0\Regex.pdb
+F:\Codes Ref\Regex\Regular-Expressions-With-Different-Languges-\Regex C#\Regex\obj\Debug\net7.0\Regex.dll
+F:\Codes Ref\Regex\Regular-Expressions-With-Different-Languges-\Regex C#\Regex\obj\Debug\net7.0\refint\Regex.dll
+F:\Codes Ref\Regex\Regular-Expressions-With-Different-Languges-\Regex C#\Regex\obj\Debug\net7.0\Regex.pdb
+F:\Codes Ref\Regex\Regular-Expressions-With-Different-Languges-\Regex C#\Regex\obj\Debug\net7.0\Regex.genruntimeconfig.cache
+F:\Codes Ref\Regex\Regular-Expressions-With-Different-Languges-\Regex C#\Regex\obj\Debug\net7.0\ref\Regex.dll
